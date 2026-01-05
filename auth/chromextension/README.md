@@ -1,3 +1,4 @@
+
 Firebase Auth w/ Google Sign-In in Chrome Extensions
 ====================================================
 
